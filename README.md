@@ -35,10 +35,10 @@ get extra feturs use maalutty v3😍⏬
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/unnikuttan123) 
  
-### The Hard Method
-```js
+### The Hard Method                                                                                           
+```js  
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
